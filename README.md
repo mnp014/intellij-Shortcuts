@@ -54,3 +54,26 @@ Sorround with live template : `Ctrl` + `Alt` +  `j`
 View Documentation : `Ctrl` + `q`    
 Undo : `Ctrl` + `z`  
 UpperCase Converion : `Ctrl` + `Shift` + `u`  
+
+
+#### EDIT:
+Rename : `Shift` + `F6`  
+#### MISC
+
+#### NAVIGATION:
+
+#### RUN & DEBUG:
+Attach to process : Selection : `Ctrl` + `Alt` + `F5`  
+Build : `Ctrl` + `F9`  
+Debug : `Shift` + `F9`   
+Debug Selection : `Ctrl` + `Shift` + `F9`  
+Re-Build : `Ctrl` + `Shift` + `F9`  
+Run : `Shift` + `F10`  
+Run Selection : `Ctrl` + `Shift` + `F10`  
+Stop : `Ctrl` + `F2`  
+
+#### SEARCH
+
+#### VIEW
+Breakpoints : `Ctrl` + `Shift` + `F8`
+Code Coverage :  `Ctrl` + `Alt` + `F6`  
