@@ -1,4 +1,12 @@
 # intellij-Shortcuts
+###### [EDIT:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#edit)
+###### [MISC:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#misc)
+###### [NAVIGATION:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#navigation)
+###### [RUN & DEBUG:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#)
+###### [SEARCH:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#search)
+###### [VIEW:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#view)
+
+
 `Alt`
 `Ctrl` 
 `Enter`
