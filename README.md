@@ -14,3 +14,4 @@ Rebase / Merge incoming changes : `Ctrl` + `t`
 Recent files backward navigation : `Ctrl` + `Alt` + `<-`  
 Recent files forward navigation : `Ctrl` + `Alt` + `->`   
 Sorround with live template : `Ctrl` + `Alt` +  `j`  
+View Documentation : `Ctrl` + `q`  
