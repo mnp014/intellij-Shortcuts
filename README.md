@@ -1,10 +1,10 @@
 # intellij-Shortcuts
-###### [EDIT:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#edit-1)
-###### [MISC:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#misc-1)
-###### [NAVIGATION:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#navigation-1)
-###### [RUN & DEBUG:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#run--debug-1)
-###### [SEARCH:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#search-1)
-###### [VIEW:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#view-1)
+ - [EDIT:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#edit-1)
+ - [MISC:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#misc-1)
+ - [NAVIGATION:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#navigation-1)
+ - [RUN & DEBUG:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#run--debug-1)
+ - [SEARCH:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#search-1)
+ - [VIEW:](https://github.com/mnp014/intellij-Shortcuts/blob/master/README.md#view-1)
 
 
 `Alt`
