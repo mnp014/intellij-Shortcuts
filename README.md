@@ -47,9 +47,9 @@ Recent Locations : `Ctrl` + `Shift` + `e`
 Redo :  `Ctrl` + `Shift` + `z`  
 Replace in path : `Ctrl` + `Shift` + `r`  
 Run recent Tests :  : `Ctrl` + `Shift` + `;`  
-Select All : `Ctrl` + `a`
-Search All : `Shift` x `2`
-Search Class : `Ctrl` + `n`   
+Select All : `Ctrl` + `a`  
+Search All : `Shift` x `2`  
+Search Class : `Ctrl` + `n`     
 Sorround with live template : `Ctrl` + `Alt` +  `j`    
 View Documentation : `Ctrl` + `q`    
 Undo : `Ctrl` + `z`  
